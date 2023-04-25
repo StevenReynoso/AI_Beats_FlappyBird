@@ -17,3 +17,5 @@ This project includes the following files:
 To run the game, simply run the flappy_bird.py file in Python. The game will start automatically and the neural network will begin playing. You can adjust the parameters in the neat_config.txt file to change the behavior of the NEAT algorithm.
 
 Enjoy playing Flappy Bird with an AI that learns to play the game using NEAT!
+
+![FlappyBird](https://user-images.githubusercontent.com/114453891/234326045-475d636e-25bb-4214-9fb5-331e98447f49.png)
